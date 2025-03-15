@@ -1,5 +1,11 @@
 # 明新科大資管系2025年大型語言模型進階課程
 
+## 下載本課程
+本課程部分檔案較大，使用了git-lfs，請先安裝git-lfs，再使用https方法來clone本課程，無法使用zip下載。
+```bash=
+git lfs install
+git clone https://github.com/joshhu/mustllm2025advanced.git
+```
 ## 注意事項
 1. 課程前準備好Google帳號，並且能夠在Colab上執行課程範例程式
 2. huggingface的帳號及API key先行申請好
