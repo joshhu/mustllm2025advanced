@@ -50,4 +50,4 @@ git clone https://github.com/joshhu/mustllm2025advanced.git
 - 李宏毅教授的課程影片(https://www.youtube.com/@HungyiLeeNTU)
 - 陳縕儂教授的課程影片(https://www.youtube.com/@VivianMiuLab)
 - Andrej Karpathy的課程影片(https://www.youtube.com/@AndrejKarpathy)
-- 其它網路相關論文及資料
+- 其它網路相關論文及資料，放在`Refs`資料夾中
