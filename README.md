@@ -40,7 +40,7 @@ git clone https://github.com/joshhu/mustllm2025advanced.git
  本課程slido互動平台：(https://app.sli.do/event/1M8RkXiGZnc6pFvtSga7DT/live/questions)
  
 ## 教材內容
-- `Codes`: 課程範例程式
+- `Code`: 課程範例程式
 - `Refs`: 課程參考資料
 - `Slides`: 課程投影片
 
