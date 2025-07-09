@@ -1,0 +1,13 @@
+# LINE Bot相關套件
+line-bot-sdk==3.12.0
+Flask==3.0.0
+
+# Google Gemini API
+google-generativeai==0.7.2
+
+# 其他必要套件
+requests>=2.31.0
+python-dotenv==1.0.0
+
+# 生產環境建議
+gunicorn==21.2.0
